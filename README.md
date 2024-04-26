@@ -11,9 +11,6 @@ Welcome to my GitHub profile! I am passionate about building scalable and effici
 - Twitter: [@yourtwitter](https://twitter.com/SiiiiLuuuu)
 - Blog: [Your Blog](https://yourblog.com)
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-stats-two-cyan.vercel.app/api?username=SiiLuu&show_icons=true&theme=radical)
-
 ### 📚 I'm currently learning:
 - Advanced techniques in Vue.js and exploring Nuxt for server-side rendering.
 - Building robust APIs with AdonisJS, a Node.js framework designed for building enterprise-grade server-side applications.
