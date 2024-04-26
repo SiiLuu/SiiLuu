@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am passionate about building scalable and effici
 - Blog: [Your Blog](https://yourblog.com)
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SiiLuu&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-stats-eight-chi.vercel.app/api?username=SiiLuu&show_icons=true&theme=radical)
 
 ### 📚 I'm currently learning:
 - Advanced techniques in Vue.js and exploring Nuxt for server-side rendering.
