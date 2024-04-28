@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I am passionate about building scalable and effici
 ### 🌍 Based in Toulouse, France 🇫🇷
 
 ### ✉️ Find me on:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/lucas-simao-925b1b185/)
-- Twitter: [@yourtwitter](https://twitter.com/SiiiiLuuuu)
-- Blog: [Your Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-simao-925b1b185/)
+- [Twitter](https://twitter.com/SiiiiLuuuu)
+- [Website](https://yourblog.com)
 
 ### 📚 I'm currently learning:
 - Advanced techniques in Vue.js and exploring Nuxt for server-side rendering.
